@@ -1,0 +1,23 @@
+.nav1{
+    height: 100%;
+background-color:rgb(26, 24, 24);
+font-size: 30px;
+color: #cecece;
+}
+.nav2{
+    color: #cecece;  
+}
+.hrnav{
+    background-color: #cecece;
+    color:#cecece ;
+}
+.navb{
+    height: 500px;
+}
+.aa{
+    color: black;
+}
+.roww{
+    position: fixed;
+    height: 100%;
+}

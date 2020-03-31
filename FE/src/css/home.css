@@ -1,0 +1,44 @@
+.categoly{
+    background-color: #3c6a15;
+}
+.cat1{
+    color: #ffffff;
+    font-size: 50px; 
+}
+.cat2{
+    color: #3c6a15;
+    font-size: 50px; 
+}
+.cathr{
+    color: #3c6a15;
+    font-size: 5px; 
+    background-color: #3c6a15;
+}
+.cathr2{
+  
+    font-size: 5px; 
+    background-color: #ffffff;
+}
+.btnbuy{
+  
+    border: none;
+    background-color: #3c6a15;
+    font-size: 22px;
+}
+.btnbuy:hover,.btnbuy:focus{
+    background-color: #27420e;
+}
+.titlecart{
+    font-size: 25px;
+    color: #fd0000;
+}
+.cardCat{
+    background: none;
+    border-color: #ffffff ;
+    /* border: 10px; */
+    border-style: solid;
+  border-width: 5px;
+}
+.img1{
+    width: 100%;
+}

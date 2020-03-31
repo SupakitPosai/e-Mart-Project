@@ -1,0 +1,19 @@
+.b1 {
+    width: 45%;
+    margin-right: .5rem;
+}
+
+.formb {
+    text-align: center;
+}
+
+.imgbut:active, .imgbut:focus, .imgbut:hover {
+    border: 2px solid #27420e;
+}
+
+.imageAnchor:focus img {
+    border: 2px solid #27420e;
+}
+.cancer{
+    width: 100%;
+}

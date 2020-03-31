@@ -1,0 +1,24 @@
+.btnsignin{
+    width: 100%;
+    font-size: 30px;
+    background-color:#3c6a15 ;
+    border: none;
+}
+.btnsignin:hover{
+    background-color: #27420e;
+}
+.GoogleLogin{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.FaceLogin{
+    
+    height: 70%;
+}
+.kep-login-facebook.metro{
+    padding: 1rem !important;
+    width: 100% !important;
+    height: 100% !important;
+    
+}

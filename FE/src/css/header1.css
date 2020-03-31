@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'DBHelvethaicaXMedCon';
+    font-style: normal;
+    src: url('../fonts/DBHelvethaicaXMedCondv3.2.ttf');
+    /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'), url('../fonts/DBHelvethaicaXMedCondv3.2.ttf') format('truetype');
+    /* Safari, Android, iOS */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: DBHelvethaicaXMedCon;
+    background-color: #FAFAFA;
+}
+
+.he {
+    background-color: #ffffff;
+}
+
+.header {
+    font-size: 22px;
+}
+
+.navh {
+    color: #27420e;
+}
+
+.navhome {
+    width: 50px;
+}
+
+.navh1 {
+    padding-top: 15px;
+}
+
+.btnSearch {
+    background-color: #3c6a15;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.inpg {
+    font-size: 22px;
+}
+
+.regis:hover {
+    color: #3c6a15;
+}
+
+a {
+    color: #3c6a15;
+}
+
+a:hover {
+    text-decoration: #3c6a15;
+}
+
+.iuser {
+    font-size: 40px;
+    color: #3c6a15;
+}
+
+.col {
+    padding-top: 0;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+.navbar1 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #3c6a15;
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.ttt {
+    width: 95px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    background-color: #27420e;
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    background-color: #27420e;
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .show>.nav-link {
+    background-color: #27420e;
+    color: #ffffff;
+}
+
+.carti {
+    font-size: 40px;
+    padding-right: 3px;
+}
+
+.h4_2 {
+    width: 150px;
+}

@@ -1,0 +1,42 @@
+.card {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.itemcart {
+    display: none;
+}
+
+.Decart {
+    display: flex;
+    flex-direction: row;
+}
+
+.icart {
+    display: flex;
+    flex-direction: row;
+}
+
+.imgcart {
+    width: 100px;
+}
+.addcart{
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 768px) {
+    .Decart {
+        display: none;
+    }
+    .itemcart {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media (max-width: 425px) {
+    .imgcart {
+        width: 100%;
+    }
+}

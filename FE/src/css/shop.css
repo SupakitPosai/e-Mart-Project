@@ -1,0 +1,95 @@
+.a1 {
+    font-size: 1.5rem;
+}
+
+.nameshop {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.CPro {
+    overflow-x: auto;
+}
+
+.TypeCardM {
+    display: none;
+}
+
+.TypeCardMm {
+    display: none;
+}
+
+.reshowPM {
+    display: none;
+}
+
+.reshowPMS {
+    display: none;
+}
+
+.reshowPMSS {
+    display: none;
+}
+
+@media only screen and (max-width: 768px) {
+    .reshowPM {
+        display: flex;
+        flex-direction: row;
+    }
+    .reshowPMS {
+        display: none;
+    }
+    .reshowPMSS {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .reshowPM {
+        display: none;
+    }
+    .reshowPMS {
+        display: flex;
+        flex-direction: row;
+    }
+    .reshowPMSS {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    .TypeCardD {
+        display: none;
+    }
+    .TypeCardM {
+        display: flex;
+        flex-direction: row;
+    }
+    .TypeCardMm {
+        display: none;
+    }
+}
+
+@media (max-width: 360px) {
+    .TypeCardD {
+        display: none;
+    }
+    .TypeCardM {
+        display: none;
+    }
+    .TypeCardMm {
+        display: flex;
+        flex-direction: row;
+    }
+    .reshowPM {
+        display: none;
+    }
+    .reshowPMS {
+        display: none;
+    }
+    .reshowPMSS {
+        display: flex;
+        flex-direction: row;
+    }
+}

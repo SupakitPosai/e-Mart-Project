@@ -1,0 +1,38 @@
+.PM{
+    display: none;
+}
+.P1{
+    padding-top: 12px;
+}
+.bt-P{
+    font-size: 20px;
+    background-color: #3c6a15;
+   
+}
+.bt-P:hover{
+    background-color: #27420e;
+}
+.btn-primary{
+     border: none;
+}
+.PN{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20%;
+}
+.ctt{
+    height: 16rem;
+    overflow: auto;
+}
+.css-2b097c-container{
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+@media (max-width: 992px) {
+    .PM{
+        display: inline;
+    }
+    .PD{
+        display:none;
+    }
+}

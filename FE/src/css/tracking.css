@@ -1,0 +1,41 @@
+.vertical-timeline-element-content .vertical-timeline-element-date{
+    margin-left: 20px;
+}
+.colT{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cardT{
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.card{
+    border: none;
+}
+.showMT{
+    display:none;
+}
+/* .vertical-timeline--two-columns .vertical-timeline-element-content{
+margin-left: -15px ;
+} */
+/* @media only screen and (min-width: 1170px){
+    .vertical-timeline--two-columns .vertical-timeline-element-content{
+        
+    }
+} */
+@media only screen and (max-width: 1170px){
+    .vertical-timeline-element-content .vertical-timeline-element-date{
+        margin-left: 0;
+        margin-right: 15px;
+    }
+}
+@media only screen and (max-width: 575px){
+    .showMT{
+        display:inline;
+    }
+    .showDT{
+        display:none;
+
+    }
+}
